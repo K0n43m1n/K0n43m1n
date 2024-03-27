@@ -1,0 +1,3 @@
+- 👋 Hi, if you see this repository you gay
+- 🌭 Yes, this full true
+- printf("YOU GAY!1!1!!1!");
